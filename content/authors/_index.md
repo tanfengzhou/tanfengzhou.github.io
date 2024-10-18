@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Your Name
+title: Fengzhou Tan 
 
 # Full name for SEO
-first_name: Your First Name
-last_name: Your Last Name
+first_name: Fengzhou
+last_name: Tan
 
 # Status emoji (optional)
 status:
@@ -35,8 +35,8 @@ interests:
 education:
   courses:
     - course: PhD in Geophysics
-      institution: [Your PhD University]
-      year: 202X
+      institution: University of Victoria
+      year: 2024
     - course: BSc in Geology
       institution: [Your Undergraduate University]
       year: 201X
