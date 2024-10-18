@@ -55,8 +55,8 @@ interests:
 education:
   - area: PhD Geophysics
     institution: University of Victoria
-    date_start: 2019-05
-    date_end: 2024-08
+    date_start: 2019-05-01
+    date_end: 2024-08-31
     summary: |
       Dissertation on _Exploring complex earthquake sequences through innovative automatic detection and location methods_. Supervised by [Honn Kao](https://example.com) and Edwin Nissen. 
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://dspace.library.uvic.ca/items/f80c8fb5-d945-44b9-887a-997498008404'
   - area: MSc Geophysics
     institution: University of Victoria
-    date_start: 2017-09
-    date_end: 2019-04
+    date_start: 2017-09-01
+    date_end: 2019-04-30
     summary: |
       Thesis on _Improving beamforming-based methodologies for seismological analysis_.
     button:
@@ -74,8 +74,8 @@ education:
 
   - area: BSc Geophysics
     institution: Peking University 北京大学
-    date_start: 2013-09
-    date_end: 2017-07
+    date_start: 2013-09-01
+    date_end: 2017-07-31
 
 work:
   - position: Director of Cloud Infrastructure
