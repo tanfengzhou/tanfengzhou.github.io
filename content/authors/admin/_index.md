@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 谭凤周
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Fengzhou Tan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Fengzhou
+last_name: Tan
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoc 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of California, San Diego
+    url: https://ucsd.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,42 +47,36 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Seismology
+  - Earthquake Physics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Geophysics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geophysics
+    institution: University of Victoria
+    date_start: 2019-05
+    date_end: 2024-08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation on _Exploring complex earthquake sequences through innovative automatic detection and location methods_. Supervised by [Honn Kao](https://example.com) and Edwin Nissen. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Read dissertation'
+      url: 'https://dspace.library.uvic.ca/items/f80c8fb5-d945-44b9-887a-997498008404'
+  - area: MSc Geophysics
+    institution: University of Victoria
+    date_start: 2017-09
+    date_end: 2019-04
     summary: |
-      GPA: 3.8/4.0
+      Thesis on _Improving beamforming-based methodologies for seismological analysis_.
+    button:
+      text: 'Read thesis'
+      url: 'https://dspace.library.uvic.ca/items/56ca8582-b1d6-425b-9ec4-4c26aca0af9c'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Geophysics
+    institution: Peking University 北京大学
+    date_start: 2013-09
+    date_end: 2017-07
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
