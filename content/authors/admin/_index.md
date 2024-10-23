@@ -1,17 +1,13 @@
 ---
 # Display name
-title: 谭凤周
+title: Fengzhou Tan
 
 # Name pronunciation (optional)
-name_pronunciation: Fengzhou Tan
+name_pronunciation: 谭凤周
 
 # Full name (for SEO)
 first_name: Fengzhou
 last_name: Tan
-
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -86,40 +82,34 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+      - name: Latex
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 100
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Table Tennis
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 90
+      - name: Go
         description: ''
-        percent: 100
-        icon: cat
+        percent: 80
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
