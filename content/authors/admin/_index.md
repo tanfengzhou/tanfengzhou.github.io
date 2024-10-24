@@ -2,9 +2,6 @@
 # Display name
 title: Fengzhou Tan
 
-# Name pronunciation (optional)
-# name_pronunciation: 谭凤周
-
 # Full name (for SEO)
 first_name: Fengzhou
 last_name: Tan
