@@ -112,6 +112,6 @@ languages:
     percent: 80
     
 
-## About Me
+# About Me
 
 I'm a seismologist, currently working as a postdoctoral scholar at the University of California, San Diego. My research interests are about earthquakes, including their physical processes, observation methods, hazards, and forecast potentials. I'm also interested in developing and applying cutting edge machine learning techniques to seismology and geophysics. 
