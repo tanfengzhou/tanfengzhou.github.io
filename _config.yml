@@ -34,13 +34,13 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : ""  # paste your Google Scholar profile URL here when ready
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=zPdfacgAAAAJ"  # paste your Google Scholar profile URL here when ready
   inspire-hep      :
   impactstory      :
-  orcid            : ""  # paste your ORCID URL here when ready (e.g., https://orcid.org/0000-0000-0000-0000)
+  orcid            :
   semantic         :
   ssrn             :
-  pubmed           : ""  # usually not needed for geophysics; keep blank
+  pubmed           :
   researchgate     :
   scopus           :
   zotero           :
