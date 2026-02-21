@@ -31,16 +31,16 @@ author_profile: true
 ## Conference publications
 
 ### 2026
-- **Tan, F.**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Submitted to the Seismological Society of America (**SSA**) Annual Meeting.
+- **Tan, F.**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Seismological Society of America (**SSA**) Annual Meeting, oral.
 - Ulrich, T., Zou, X., Schliwa, N., Marchandon, M., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., & Fialko, Y. (2026). *Could the complex rupture dynamics of the 2025 Mw 7.8 Myanmar Earthquake have been predicted?* Submitted to the European Geophysical Union (**EGU**) General Assembly.
 
 ### 2025
 - **Tan, F.**, Fan, W., Shearer, P., Behn, M., McGuire, J., Warren, J., Collins, J., & Boettcher, M. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* American Geophysical Union (**AGU**) Fall Meeting, poster (S43D-0288).
-- **Tan, F.**, Fan, W., Shearer, P., Behn, M., & McGuire, J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Southern California Earthquake Center (**SCEC**) Annual Meeting, poster.
 - Tian, W., Yu, H., **Tan, F.**, & Jiang, G. (2025). *Comparative study of earthquake detection and location methods based on phase identification and waveform stacking: Taking injection-induced earthquake in Lu County, Sichuan as an example.* **AGU** Fall Meeting, poster (S41E-0238).
 - Gabriel, A., Ulrich, T., Zou, X., Schliwa, N., Marchandon, M., **Tan, F.**, Fan, W., Shearer, P., & Fialko, Y. (2025). *Can the complex dynamic rupture behaviour of the 2025 Myanmar earthquake be predicted from its static slip distribution alone?* **AGU** Fall Meeting, oral (S33A-08).
 - Fialko, Y., Ulrich, T., Zou, X., Schliwa, N., Marchandon, M., **Tan, F.**, Gabriel, A., Fan, W., & Shearer, P. (2025). *Rupture Geometry and Slip Distribution of the 2025 Mw 7.8 Myanmar Earthquake Constrained by Sentinel-1A/2 and ALOS-2 Satellite Data.* **AGU** Fall Meeting, poster (G41B-0304).
-
+- **Tan, F.**, Fan, W., Shearer, P., Behn, M., & McGuire, J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Southern California Earthquake Center (**SCEC**) Annual Meeting, poster.
+  
 ### 2024
 - **Tan, F.**, Nissen, E., & Kao, H. (2024). *The Kahramanmaraş (Turkey) earthquake multiplet sequence revealed by deep learning computer vision.* **SSA** Annual Meeting, oral.
 
