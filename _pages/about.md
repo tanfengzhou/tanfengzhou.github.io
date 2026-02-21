@@ -18,6 +18,3 @@ I am a **Postdoctoral Research Scholar** at the **University of California, San 
 ### Current position
 - **Postdoctoral Research Scholar**, UC San Diego (Oct 2024–present)  
   NSERC Postdoctoral Fellowship (2024–2026)
-
-### Contact
-The best way to reach me is by email: **fengzhou.tan@gmail.com**.
