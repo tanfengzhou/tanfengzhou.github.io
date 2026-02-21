@@ -6,10 +6,11 @@ author_profile: true
 
 ## Peer-reviewed publications
 
-### 2025
+### In progress
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
 - Ulrich, T., Zou, X., Marchandon, M., Schliwa, N., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., Thant, M., Tin, T. Z. H., Lindsey, E. O., & Fialko, Y. (2025). *On predictability of slip, rupture geometry, and rupture speed of the Mw7.8 2025 Mandalay (Myanmar) Earthquake.* Under revision at **Nature Communications**.
-- Luo, H.*, **Tan, F.* **, Ma, Z., Chen, K., Zhang, J., Wang, X., Xu, S., Carvajal, M., Xu, H., Yun, S., & Chen, L. (2025). *Rough Fracture Zone as a Gateway to the 2025 Mw 8.8 Kamchatka Earthquake.* Under review at **Science**. (*Co-first authors; equal contribution.*)
+
+### 2025
 - Salomon, G., Nissen, E., **Tan, F.**, Bergman, E., Sloan, A., & Pousse-Beltran, L. (2025). *The 2020 Mw 6.4 Koryak Highlands earthquake illustrates hidden seismic hazards in the northern Pacific Cordillera.* **Geophysical Journal International**, 240(3), 2111–2124.
 
 ### 2024
