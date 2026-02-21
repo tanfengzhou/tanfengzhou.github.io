@@ -8,6 +8,7 @@ author_profile: true
 
 ### In progress
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
+- **Tan, F.**, Nissen, E., & Kao, H. (2025). *Pervasive tectonic inheritance in the East Anatolian Fault Zone revealed by the 2023 Kahramanmaraş earthquake sequence.* Under review at **Seismica**.
 - Ulrich, T., Zou, X., Marchandon, M., Schliwa, N., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., Thant, M., Tin, T. Z. H., Lindsey, E. O., & Fialko, Y. (2025). *On predictability of slip, rupture geometry, and rupture speed of the Mw7.8 2025 Mandalay (Myanmar) Earthquake.* Under revision at **Nature Communications**.
 
 ### 2025
@@ -58,7 +59,9 @@ author_profile: true
 - **Tan, F.**, Kao, H., & Nissen, E. (2020). *Tracking earthquake sequences in real time: application of Seismicity-Scanning based on Navigated Automatic Phase-picking (S-SNAP) to the 2019 Ridgecrest, California sequence.* **AGU Fall Meeting** poster (S038-0016).
 - Pousse-Beltran, L., Nissen, E., Bergman, E., Cambaz, D., Gaudreau, É., Karasözen, E., & **Tan, F.** (2020). *Rupture behavior of the 2020 Mw 6.8 Elazığ (Turkey) earthquake and its tectonic implications.* **AGU Fall Meeting** poster (T054-0009).
 - **Tan, F.**, Kao, H., & Nissen, E. (2020). *Source-Scanning based on Navigated Automatic Phase-Picking (S-SNAP) for delineating the spatiotemporal distribution of earthquake sequence in real time: application to the 2019 Ridgecrest, California sequence.* **SSA Annual Meeting** oral (Seismological Research Letters 91(2B): 1258).
-- Kao, H., Visser, R., Dokht, R. M. H., Venables, S., Mahani, A. B., Liu, Y., & **Tan, F.** (2020). *Quantitative relationship between injection operations and induced seismicity in the Southern Montney Play, British Columbia, Canada.* **AGU Fall Meeting** oral (S12A-08).
+
+### 2019
+- Kao, H., Visser, R., Dokht, R. M. H., Venables, S., Mahani, A. B., Liu, Y., & **Tan, F.** (2019). *Quantitative relationship between injection operations and induced seismicity in the Southern Montney Play, British Columbia, Canada.* **AGU Fall Meeting** oral (S12A-08).
 
 ### 2018
 - **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2018). *Seismicity-Scanning based on Navigated Automatic Phase-picking (S-SNAP).* **AGU Fall Meeting** poster (S31F-0568).
