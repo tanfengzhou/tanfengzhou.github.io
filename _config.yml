@@ -22,7 +22,7 @@ repository               : "tanfengzhou/tanfengzhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"  # After uploading your headshot, set to "/images/headshot.jpg"
+  avatar           : "https://github.com/tanfengzhou.png"  # After uploading your headshot, set to "/images/headshot.jpg"
   name             : "Fengzhou Tan"
   pronouns         :
   bio              : "Postdoctoral Research Scholar at UC San Diego. Earthquake seismology • Marine geophysics • AI for seismic analysis."
