@@ -11,7 +11,7 @@ author_profile: true
 I study faulting and earthquake processes, with a focus on oceanic transform faults. I use modern AI techniques to study seismicity and focal mechanisms on Gofar transform fault branches. The detailed seismic observations are informative of plate boundary faulting process, stress regime, and fault mechanics. Various types of focal mechanisms along oceanic transform faults suggest their structural complexity and non-conservative nature. Long-term earthquake rupture barriers are liekly associated with fault segments with elevated pore fluid pressures along strike. 
 
 <figure>
-  <img src="/images/projects/ai-seismology/SUGAR-example.jpg"
+  <img src="/images/projects/marine-geophysics/gofarG3focal.png"
        alt="AI workflow for earthquake detection and source characterization"
        style="max-width:90%; height:auto;">
   <figcaption><em>Figure 1.</em> Focal mechanisms on Gofar G3 branch. Non-strike-slip events are common on the oceanic transform fault, while certain faulting types prefer different segments. Kilometer scale normal faulting structures perpendicular to the transform fault are identified. Stress inversion shows the maximum and minimum stress are horizontal and ~45 degree from the transform fault.</figcaption>
