@@ -6,7 +6,8 @@ author_profile: true
 
 ## Research themes
 
-<h3 id="marine-geophysics" style="scroll-margin-top: 90px;">1) Marine geophysics</h3>
+<div id="marine-geophysics" style="position: relative; top: -110px;"></div>
+<h3>1) Marine geophysics</h3>
 
 **Overview:**  
 I study faulting and earthquake processes, with a focus on oceanic transform faults. I use modern AI techniques to study seismicity and focal mechanisms on Gofar transform fault branches. The detailed seismic observations are informative of plate boundary faulting process, stress regime, and fault mechanics. Various types of focal mechanisms along oceanic transform faults suggest their structural complexity and non-conservative nature. Long-term earthquake rupture barriers are likely associated with fault segments with elevated pore fluid pressures along strike. 
@@ -23,7 +24,8 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 
 ---
 
-<h3 id="ai-and-seismological-methods">2) AI and seismological methods</h3>
+<div id="ai-and-seismological-methods" style="position: relative; top: -110px;"></div>
+<h3>2) AI and seismological methods</h3>
 
 **Overview:**  
 I develop modern seismological and AI-based methods to study seismic signals. One of the key contributions is the Source Untangler Guided by Artificial intelligence image Recognition (SUGAR). SUGAR introduces a computer-vision framing of seismic source detection: it turns the detection/location into a 3-D image segmentation problem, rather than relying only on traditional pick-and-associate workflows. By integrating waveform stacking and 3-D computer vision, SUGAR is robust when events overlap strongly in space and time. In synthetic and real-data tests, the workflow is reported to characterize intense, complex sequences in near real time, outperforming both commonly used AI/non-AI approaches and skilled analyst workflows in these challenging scenarios. 
@@ -46,7 +48,8 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 
 ---
 
-<h3 id="environmental-seismology">3) Environmental seismology</h3>
+<div id="environmental-seismology" style="position: relative; top: -110px;"></div>
+<h3>3) Environmental seismology</h3>
 
 **Overview:**  
 I am interested in how seismic observations can be used to study environmental processes, including cryosphere-related signals and other non-tectonic sources. This theme focuses on extracting weak environmental seismic signals from continuous data, combining detection, location and machine learning workflows to identify events and connect them to environmental drivers. The broader goal is to use seismology as a continuous tool for monitoring environmental phenomena. 
