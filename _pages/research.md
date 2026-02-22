@@ -29,11 +29,9 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 <figure>
   <img src="/images/projects/ai-seismology/SUGAR-example.jpg"
        alt="AI workflow for earthquake detection and source characterization"
-       style="max-width:60%; height:auto;">
+       style="max-width:90%; height:auto;">
   <figcaption><em>Figure 1.</em> Example of SUGAR detections. Top: SUGAR detects and correctly locate 7 earthquakes out of 8 within the one-minute seismogram, while an analyst only identified the biggest one. Bottom: The computer vision model in SUGAR identifies 3 almost concurent earthquakes (right) from the brightness video obtatined by waveform stacking (left).</figcaption>
 </figure>
-
-<div style="height: 2rem;"></div>
 
 **Selected publications:**  
 - **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024).
