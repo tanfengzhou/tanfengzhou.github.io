@@ -8,14 +8,14 @@ author_profile: true
 
 ### 1) Marine geophysics
 **Overview:**  
-I study faulting and earthquake processes, with a focus on oceanic transform faults. 
+I study faulting and earthquake processes, with a focus on oceanic transform faults. I use modern AI techniques to study seismicity and focal mechanisms on Gofar transform fault branches. The detailed seismic observations are informative of plate boundary faulting process, stress regime, and fault mechanics. Various types of focal mechanisms along oceanic transform faults suggest their structural complexity and non-conservative nature. Long-term earthquake rupture barriers are liekly associated with fault segments with elevated pore fluid pressures along strike. 
 
-<!-- Add 1–3 images later. Put files under /images/projects/transform-faults/ -->
-<!-- Example:
-<img src="/images/projects/transform-faults/overview.png" alt="Transform faults overview" width="750">
-<br>
-<img src="/images/projects/transform-faults/result.png" alt="Key result figure" width="750">
--->
+<figure>
+  <img src="/images/projects/ai-seismology/SUGAR-example.jpg"
+       alt="AI workflow for earthquake detection and source characterization"
+       style="max-width:90%; height:auto;">
+  <figcaption><em>Figure 1.</em> Focal mechanisms on Gofar G3 branch. Non-strike-slip events are common on the oceanic transform fault, while certain faulting types prefer different segments. Kilometer scale normal faulting structures perpendicular to the transform fault are identified. Stress inversion shows the maximum and minimum stress are horizontal and ~45 degree from the transform fault.</figcaption>
+</figure>
 
 **Selected publications:**  
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
