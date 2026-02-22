@@ -6,6 +6,8 @@ author_profile: true
 
 ## Research themes
 
+<h3 id="marine-geophysics">Marine geophysics</h3>
+
 ### 1) Marine geophysics
 **Overview:**  
 I study faulting and earthquake processes, with a focus on oceanic transform faults. I use modern AI techniques to study seismicity and focal mechanisms on Gofar transform fault branches. The detailed seismic observations are informative of plate boundary faulting process, stress regime, and fault mechanics. Various types of focal mechanisms along oceanic transform faults suggest their structural complexity and non-conservative nature. Long-term earthquake rupture barriers are liekly associated with fault segments with elevated pore fluid pressures along strike. 
@@ -21,6 +23,8 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
 
 ---
+
+<h3 id="ai-and-seismological-methods">AI and seismological methods</h3>
 
 ### 2) AI and seismological methods
 **Overview:**  
@@ -43,6 +47,8 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 - **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2019). *Seismicity-Scanning based on Navigated Automatic Phase-picking.* **Journal of Geophysical Research: Solid Earth**, 124, 3802–3818.
 
 ---
+
+<h3 id="environmental-seismology">Environmental seismology</h3>
 
 ### 3) Environmental seismology
 **Overview:**  
