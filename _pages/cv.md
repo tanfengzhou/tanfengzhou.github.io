@@ -1,64 +1,30 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[Download CV (PDF)](/files/CV_FengzhouTan.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **Ph.D. in Geophysics** — University of Victoria, Victoria, BC, Canada (2019–2024)  
+  - GPA: 9.0/9.0
+- **M.S. in Geophysics** — University of Victoria, Victoria, BC, Canada (2017–2019)
+- **B.S. in Geophysics** — Peking University, Beijing, China (2013–2017)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Work experience
+- **Postdoctoral Research Scholar** — University of California, San Diego (UCSD) (2024–Present)  
+  - Awarded the NSERC Postdoctoral Fellowship  
+  - Marine geophysics research using modern AI methods  
+  - Seismic observations of the cryosphere
+- **Field Technician** — University of California, San Diego (2025)  
+  - Recovered 324 temporary seismic stations around Anza, CA, USA
+- **Teaching Assistant** — University of Victoria (UVic) (2018–2022)  
+  - Co-developed EOS 170: *Natural Hazards* (labs & assessments)  
+  - Led whole-class interactive activities (~300 students/term)  
+  - President’s Fellowship in Research-Enriched Teaching (2020)
+- **Research Assistant** — Geological Survey of Canada, Natural Resources Canada (2018–2019)  
+  - Developed and tested an automatic earthquake detection & location workflow (S-SNAP)  
+  - Collaborated with federal scientists on seismic analysis
+- **Field Technician** — Geological Survey of Canada, Natural Resources Canada (2018)  
+  - Installed 6 permanent seismic stations (Public Safety Geoscience Program)
