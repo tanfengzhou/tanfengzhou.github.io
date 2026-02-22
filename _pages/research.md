@@ -24,16 +24,9 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 
 ### 2) AI and seismological methods
 **Overview:**  
-I develop modern seismological and AI-based methods to study seismic signals. 
+I develop modern seismological and AI-based methods to study seismic signals. One of the key contributions is the Source Untangler Guided by Artificial intelligence image Recognition (SUGAR). SUGAR introduces a computer-vision framing of seismic source detection: it turns the detection/location into a 3-D image segmentation problem, rather than relying only on traditional pick-and-associate workflows. By integrating waveform stacking and 3-D computer vision, SUGAR is robust when events overlap strongly in space and time. In synthetic and real-data tests, the workflow is reported to characterize intense, complex sequences in near real time, outperforming both commonly used AI/non-AI approaches and skilled analyst workflows in these challenging scenarios. 
 
-<!-- Add images under /images/projects/ai-seismology/ -->
-<!-- Example:
-<img src="/images/projects/ai-seismology/pipeline.png" alt="AI pipeline" width="750">
-<br>
-<img src="/images/projects/ai-seismology/example.png" alt="Example detections" width="750">
--->
-
-<img src="/images/projects/ai-seismology/SUGAR-example.jpg" alt="Example detections" width="750">
+<img src="/images/projects/ai-seismology/SUGAR-example.jpg" alt="" width="90%">
 
 **Selected publications:**  
 - **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024). *Next generation source detection by computer vision: untangling the complexity of the 2016 Kaikōura earthquake sequence.* **Journal of Geophysical Research: Solid Earth**, 129, e2024JB028735.
