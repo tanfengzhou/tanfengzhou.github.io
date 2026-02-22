@@ -33,6 +33,7 @@ I develop modern seismological and AI-based methods to study seismic signals. On
   <figcaption><em>Figure 1.</em> Example of SUGAR detections. Top: SUGAR detects and correctly locate 7 earthquakes out of 8 within the one-minute seismogram, while an analyst only identified the biggest one. Bottom: The computer vision model in SUGAR identifies 3 almost concurent earthquakes (right) from the brightness video obtatined by waveform stacking (left).</figcaption>
 </figure>
 
+
 **Selected publications:**  
 - **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024).
   *Next generation source detection by computer vision: untangling the complexity of the 2016 Kaikōura earthquake sequence.*
