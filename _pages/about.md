@@ -2,19 +2,16 @@
 permalink: /
 title: "Fengzhou Tan"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-I am a **Postdoctoral Research Scholar** at the **University of California, San Diego (UCSD)**. My research focuses on **earthquake seismology** and **marine geophysics**, with an emphasis on applying **modern AI/ML methods** to seismic detection, phase picking, and source characterization.
+I am a Postdoctoral Researcher at the **University of California, San Diego (UCSD)**. My research focuses on **earthquakes**, **modern AI/ML methods**, and **environmental seismology**.
 
-### Research interests
-- Earthquake seismology
-- Marine geophysics
-- Tectonics & plate boundary processes
-- Artificial intelligence & seismological methods
+## Research themes
+- **Marine geophysics** — seismicity, fault mechanics and segmentation on oceanic transform faults.  
+- **AI and seismological methods** — computer-vision approaches for complex seismic sequences.  
+- **Environmental seismology** — cryosphere and environment-related seismic observations.
 
-### Current position
-- **Postdoctoral Research Scholar**, UC San Diego (Oct 2024–present)  
-  NSERC Postdoctoral Fellowship (2024–2026)
+## Quick links
+- [Publications](/publications/)
+- [CV](/cv/)
+- [Teaching](/teaching/)
