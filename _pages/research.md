@@ -29,8 +29,10 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 <img src="/images/projects/ai-seismology/SUGAR-example.jpg" alt="" width="90%">
 
 **Selected publications:**  
-- **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024). *Next generation source detection by computer vision: untangling the complexity of the 2016 Kaikōura earthquake sequence.* **Journal of Geophysical Research: Solid Earth**, 129, e2024JB028735.
-- **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2019). *Seismicity-Scanning based on Navigated Automatic Phase-picking.* **Journal of Geophysical Research: Solid Earth**, 124, 3802–3818.
+- **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024).
+  *Next generation source detection by computer vision: untangling the complexity of the 2016 Kaikōura earthquake sequence.*
+  **Journal of Geophysical Research: Solid Earth**, 129, e2024JB028735.
+  [[Article]](https://doi.org/10.1029/2024JB028735) [[PDF]](https://dspace.library.uvic.ca/bitstreams/6194b4ae-825b-45cb-af1d-7c28a23fef09/download) [[Code]](https://github.com/tanfengzhou/SUGAR_kaikoura)- **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2019). *Seismicity-Scanning based on Navigated Automatic Phase-picking.* **Journal of Geophysical Research: Solid Earth**, 124, 3802–3818.
 
 ---
 
