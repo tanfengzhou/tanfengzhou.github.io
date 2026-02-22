@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research themes
 
-<h3 id="marine-geophysics">1) Marine geophysics</h3>
+<h3 id="marine-geophysics" style="scroll-margin-top: 90px;">1) Marine geophysics</h3>
 
 **Overview:**  
 I study faulting and earthquake processes, with a focus on oceanic transform faults. I use modern AI techniques to study seismicity and focal mechanisms on Gofar transform fault branches. The detailed seismic observations are informative of plate boundary faulting process, stress regime, and fault mechanics. Various types of focal mechanisms along oceanic transform faults suggest their structural complexity and non-conservative nature. Long-term earthquake rupture barriers are likely associated with fault segments with elevated pore fluid pressures along strike. 
