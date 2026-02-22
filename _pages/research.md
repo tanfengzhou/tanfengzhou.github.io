@@ -33,6 +33,8 @@ I develop modern seismological and AI-based methods to study seismic signals.
 <img src="/images/projects/ai-seismology/example.png" alt="Example detections" width="750">
 -->
 
+<img src="/images/projects/ai-seismology/SUGAR-example.jpg" alt="Example detections" width="750">
+
 **Selected publications:**  
 - **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024). *Next generation source detection by computer vision: untangling the complexity of the 2016 Kaikōura earthquake sequence.* **Journal of Geophysical Research: Solid Earth**, 129, e2024JB028735.
 - **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2019). *Seismicity-Scanning based on Navigated Automatic Phase-picking.* **Journal of Geophysical Research: Solid Earth**, 124, 3802–3818.
