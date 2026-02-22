@@ -26,7 +26,12 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 **Overview:**  
 I develop modern seismological and AI-based methods to study seismic signals. One of the key contributions is the Source Untangler Guided by Artificial intelligence image Recognition (SUGAR). SUGAR introduces a computer-vision framing of seismic source detection: it turns the detection/location into a 3-D image segmentation problem, rather than relying only on traditional pick-and-associate workflows. By integrating waveform stacking and 3-D computer vision, SUGAR is robust when events overlap strongly in space and time. In synthetic and real-data tests, the workflow is reported to characterize intense, complex sequences in near real time, outperforming both commonly used AI/non-AI approaches and skilled analyst workflows in these challenging scenarios. 
 
-<img src="/images/projects/ai-seismology/SUGAR-example.jpg" alt="" width="90%">
+<figure>
+  <img src="/images/projects/ai-seismology/SUGAR-example.png"
+       alt="AI workflow for earthquake detection and source characterization"
+       style="max-width:60%; height:auto;">
+  <figcaption><em>Figure 1.</em> Example of SUGAR detections. Top: SUGAR detects and correctly locate 7 earthquakes out of 8 within the one-minute seismogram, while an analyst only identified the biggest one. Bottom: The computer vision model in SUGAR identifies 3 almost concurent earthquakes (right) from the brightness video obtatined by waveform stacking (left).</figcaption>
+</figure>
 
 **Selected publications:**  
 - **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024).
