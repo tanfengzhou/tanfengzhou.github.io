@@ -4,7 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download CV (PDF)](/files/CV_FengzhouTan.pdf)
+[Download CV (PDF)](/files/CV_TAN.pdf)
 
 ## Education
 - **Ph.D. in Geophysics** — University of Victoria, Victoria, BC, Canada (2019–2024)  
