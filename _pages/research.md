@@ -13,7 +13,7 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 <figure>
   <img src="/images/projects/marine-geophysics/gofarG3focal.png"
        alt="AI workflow for earthquake detection and source characterization"
-       style="max-width:90%; height:auto;">
+       style="max-width:100%; height:auto;">
   <figcaption><em>Figure 1.</em> Focal mechanisms on Gofar G3 branch. Non-strike-slip events are common on the oceanic transform fault, while certain faulting types prefer different segments. Kilometer scale normal faulting structures perpendicular to the transform fault are identified. Stress inversion shows the maximum and minimum stress are horizontal and ~45 degree from the transform fault.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ I develop modern seismological and AI-based methods to study seismic signals. On
   <img src="/images/projects/ai-seismology/SUGAR-example.jpg"
        alt="AI workflow for earthquake detection and source characterization"
        style="max-width:90%; height:auto;">
-  <figcaption><em>Figure 1.</em> Example of SUGAR detections. Top: SUGAR detects and correctly locate 7 earthquakes out of 8 within the one-minute seismogram, while an analyst only identified the biggest one. Bottom: The computer vision model in SUGAR identifies 3 almost concurent earthquakes (right) from the brightness video obtatined by waveform stacking (left).</figcaption>
+  <figcaption><em>Figure 2.</em> Example of SUGAR detections. Top: SUGAR detects and correctly locate 7 earthquakes out of 8 within the one-minute seismogram, while an analyst only identified the biggest one. Bottom: The computer vision model in SUGAR identifies 3 almost concurent earthquakes (right) from the brightness video obtatined by waveform stacking (left).</figcaption>
 </figure>
 
 **Selected publications:**  
