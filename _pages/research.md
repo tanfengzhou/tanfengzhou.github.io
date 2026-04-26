@@ -51,7 +51,26 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 ---
 
 <h3 id="environmental-seismology" style="padding-top:110px; margin-top:-110px;">
-  3) Environmental seismology
+  3) Major earthquakes
+</h3>
+
+**Overview:**  
+I use seismology to study major earthquakes globally, and collaborate with others to form multidisplinary studies. 
+
+<!-- Add images under /images/projects/environmental-seismology/ -->
+<!-- Example:
+<img src="/images/projects/environmental-seismology/greenland.png" alt="Study area / Greenland" width="750">
+<br>
+<img src="/images/projects/environmental-seismology/detections.png" alt="Detections figure" width="750">
+-->
+
+**Selected publications:**  
+- **Tan, F.**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Submitted to **SSA** Annual Meeting.
+
+---
+
+<h3 id="environmental-seismology" style="padding-top:110px; margin-top:-110px;">
+  4) Environmental seismology
 </h3>
 
 **Overview:**  
