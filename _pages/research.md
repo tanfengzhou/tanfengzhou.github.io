@@ -21,7 +21,7 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 </figure>
 
 **Selected publications:**  
-- **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
+- **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
 
 ---
 
@@ -55,7 +55,7 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 </h3>
 
 **Overview:**  
-I use seismology to study major earthquakes globally, and collaborate with others to form multidisplinary studies. 
+I use seismology to study major earthquakes globally, and collaborate with others to form multidisplinary studies. Case studies include the 2025 Myanmar M 7.8 earthquake and the 2025 Kamchatka M 8.8 earthquake. 
 
 <!-- Add images under /images/projects/environmental-seismology/ -->
 <!-- Example:
@@ -65,7 +65,8 @@ I use seismology to study major earthquakes globally, and collaborate with other
 -->
 
 **Selected publications:**  
-- **Tan, F.**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Submitted to **SSA** Annual Meeting.
+- Luo H.#, **Tan F.#**, Ma Z., Chen K., Zhang J., Wang X., Xu S., Carvajal M., Xu H., Yun S. & Chen L., *Rough Fracture Zone as a Gateway to the 2025 Mw 8.8 Kamchatka Earthquake.* Under revision at **Science**. #Co-first authors (equal contribution).
+- Ulrich T., Zou X., Marchandon M., Schliwa N., **Tan F.**, Gabriel A., Fan W., Shearer P., Thant M., Tin TZH., Lindsey E. O., & Fialko Y. *On predictability of slip, rupture geometry, and rupture speed of the Mw7.8 2025 Mandalay (Myanmar) Earthquake.* Under revision at **Nature Communications**. 
 
 ---
 
@@ -84,4 +85,4 @@ I am interested in how seismic observations can be used to study environmental p
 -->
 
 **Selected publications:**  
-- **Tan, F.**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Submitted to **SSA** Annual Meeting.
+- **Tan, F.**, Fan, W., & Shearer, P. *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* 2026 **SSA** Annual Meeting **oral** presentation.
