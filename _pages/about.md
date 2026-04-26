@@ -8,7 +8,8 @@ I am a Postdoctoral Researcher at the **University of California, San Diego (UCS
 
 ## Research themes
 - **[Marine geophysics](/research/#marine-geophysics)** — seismicity, fault mechanics and segmentation on oceanic transform faults.  
-- **[AI and seismological methods](/research/#ai-and-seismological-methods)** — computer-vision approaches for complex seismic sequences.  
+- **[AI and seismological methods](/research/#ai-and-seismological-methods)** — computer-vision approaches for complex seismic sequences.
+- **[Major earthquakes](/research/#major-earthquakes)** - seismological and multidisciplinary studies on global major earthquakes. 
 - **[Environmental seismology](/research/#environmental-seismology)** — cryosphere and environment-related seismic observations.
 
 ## Quick links
