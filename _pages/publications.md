@@ -8,7 +8,8 @@ author_profile: true
 
 ### In progress
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2025). *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
-- **Tan, F.**, Nissen, E., & Kao, H. (2025). *Pervasive tectonic inheritance in the East Anatolian Fault Zone revealed by the 2023 Kahramanmaraş earthquake sequence.* Under review at **Seismica**.
+- 
+- **Tan, F.**, Nissen, E., & Kao, H. (2025). *Pervasive tectonic inheritance in the East Anatolian Fault Zone revealed by the 2023 Kahramanmaraş earthquake sequence.* Under revision at **Seismica**.
 - Ulrich, T., Zou, X., Marchandon, M., Schliwa, N., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., Thant, M., Tin, T. Z. H., Lindsey, E. O., & Fialko, Y. (2025). *On predictability of slip, rupture geometry, and rupture speed of the Mw7.8 2025 Mandalay (Myanmar) Earthquake.* Under revision at **Nature Communications**.
 
 ### 2025
