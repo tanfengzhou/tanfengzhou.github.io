@@ -55,7 +55,7 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 </h3>
 
 **Overview:**  
-I use seismology to study major earthquakes globally, and collaborate with others to form multidisciplinary studies. Case studies include the 2025 Myanmar M 7.8 earthquake and the 2025 Kamchatka M 8.8 earthquake. 
+I use seismology to study major earthquakes globally, and collaborate with others to form multidisciplinary studies, with a focus on earthquake physics. Recent studies include the 2025 Myanmar M 7.8 earthquake and the 2025 Kamchatka M 8.8 earthquake. 
 
 <!-- Add images under /images/projects/environmental-seismology/ -->
 <!-- Example:
