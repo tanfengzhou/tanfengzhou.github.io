@@ -24,7 +24,7 @@ Together, these studies connect detailed observations of small earthquakes to th
   <figcaption><em>Figure 1.</em> Focal mechanisms on Gofar G3 branch. Non-strike-slip events are common on the oceanic transform fault, while certain faulting types prefer different segments. Kilometer scale normal faulting structures perpendicular to the transform fault are identified. Stress inversion shows the maximum and minimum stress are horizontal and ~45 degrees from the transform fault.</figcaption>
 </figure>
 
-**Selected publications:**  
+**Selected Publications and Presentations:**  
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2026). *Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults.* **Nature Communications**, 17, 9836.
   [Article](https://www.nature.com/articles/s41467-026-76407-5) ·
   [PDF](https://www.nature.com/articles/s41467-026-76407-5.pdf)
@@ -48,7 +48,7 @@ I develop modern seismological and AI-based methods to study seismic signals. On
   <figcaption><em>Figure 2.</em> Example of SUGAR detections. Top: SUGAR detects and correctly locates 7 earthquakes out of 8 within the one-minute seismogram, while an analyst only identified the biggest one. Bottom: The computer vision model in SUGAR identifies 3 almost concurrent earthquakes (right) from the brightness video obtained by waveform stacking (left).</figcaption>
 </figure>
 
-**Selected publications:**  
+**Selected Publications and Presentations:**  
 - **Tan, F.**, Kao, H., Yi, K. M., Nissen, E., Goerzen, C., Hutchinson, J., Gao, D., & Farahbod, A. (2024).
   *Next generation source detection by computer vision: untangling the complexity of the 2016 Kaikōura earthquake sequence.*
   **Journal of Geophysical Research: Solid Earth**, 129, e2024JB028735.
@@ -77,7 +77,7 @@ The study of the 2025 Kamchatka earthquake reveals that its rupture initially pr
 <img src="/images/projects/environmental-seismology/detections.png" alt="Detections figure" width="750">
 -->
 
-**Selected publications:**  
+**Selected Publications and Presentations:**  
 - Luo, H.<sup>†</sup>, **Tan, F.**<sup>†</sup>, Ma, Z., Chen, K., Zhang, J., Wang, X., Xu, S., Carvajal, M., Xu, H., Yun, S., & Chen, L. *Rough fracture zone as a gateway to the 2025 Mw 8.8 Kamchatka earthquake.* **Science**. In press. †Co-first authors (equal contribution).
 - Ulrich, T., Zou, X., Marchandon, M., Schliwa, N., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., Thant, M., Tin, T. Z. H., Lindsey, E. O., & Fialko, Y. (2026). *On predictability of slip, rupture geometry, and speed of the 2025 M7.8 Mandalay, Myanmar, earthquake.* **Nature Communications**, 17, 10173.
   [Article](https://www.nature.com/articles/s41467-026-77203-x) ·
@@ -101,7 +101,7 @@ I am interested in how seismic observations can be used to study environmental p
 <img src="/images/projects/environmental-seismology/detections.png" alt="Detections figure" width="750">
 -->
 
-**Selected publications:**  
+**Selected Publications and Presentations:**  
 - **Tan, F.**, Fan, W., & Shearer, P. M. *Greenland glacial earthquakes from 2010 to 2021.* Under review at **Geophysical Research Letters**.
 - **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Seismological Society of America (**SSA**) Annual Meeting, **oral presentation**.
 - **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Greenland glacial earthquake activity from 2010 to 2021 revealed by AI-assisted detection.* **AGU** Fall Meeting, poster.
