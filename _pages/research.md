@@ -61,9 +61,6 @@ I develop modern seismological and AI-based methods to study seismic signals. On
   [Article](https://doi.org/10.1029/2018JB017050) ·
   [PDF](https://web.uvic.ca/~enissen/papers/Tan-etal-2019-JGR.pdf)
 
-**Selected presentations:**
-- **<u>Tan, F.</u>**, Kao, H., Yi, K. M., Goerzen, C., Hutchinson, J., Gao, D., Farahbod, A., & Nissen, E. (2022). *Source Untangler Guided by Artificial Intelligence Image Recognition (SUGAR).* **AGU** Fall Meeting, **oral presentation** (S52A-03).
-
 ---
 
 <h3 id="major-earthquakes" style="padding-top:110px; margin-top:-110px;">
