@@ -62,7 +62,9 @@ I develop modern seismological and AI-based methods to study seismic signals. On
 </h3>
 
 **Overview:**  
-I use seismology to study major earthquakes globally, and collaborate with others to form multidisciplinary studies, with a focus on earthquake physics. Recent studies include the 2025 Myanmar M 7.8 earthquake and the 2025 Kamchatka M 8.8 earthquake. 
+I use seismology and multidisciplinary collaborations to study major earthquakes worldwide, with a focus on earthquake physics. Recent studies include the 2025 Mw 8.8 Kamchatka earthquake and the 2025 Mw 7.8 Myanmar earthquake.
+
+The study of the 2025 Kamchatka earthquake reveals that its rupture initially progressed slowly within the rough Kruzenstern Fracture Zone and nearly stopped after approximately 50 seconds. It then propagated into a smoother neighboring segment, where much larger slip occurred. This work shows how a rough fracture zone can provide a gateway to a giant earthquake when connected to a neighboring segment sufficiently stressed to sustain rupture. These findings highlight the importance of interactions between heterogeneous fault segments in assessing earthquake and tsunami hazards.
 
 <!-- Add images under /images/projects/environmental-seismology/ -->
 <!-- Example:
@@ -74,6 +76,8 @@ I use seismology to study major earthquakes globally, and collaborate with other
 **Selected publications:**  
 - Luo, H.<sup>†</sup>, **Tan, F.**<sup>†</sup>, Ma, Z., Chen, K., Zhang, J., Wang, X., Xu, S., Carvajal, M., Xu, H., Yun, S., & Chen, L. *Rough fracture zone as a gateway to the 2025 Mw 8.8 Kamchatka earthquake.* **Science**. In press. †Co-first authors (equal contribution).
 - Ulrich, T., Zou, X., Marchandon, M., Schliwa, N., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., Thant, M., Tin, T. Z. H., Lindsey, E. O., & Fialko, Y. (2026). *On predictability of slip, rupture geometry, and speed of the 2025 M7.8 Mandalay, Myanmar, earthquake.* **Nature Communications**, 17, 10173.
+  [Article](https://www.nature.com/articles/s41467-026-77203-x) ·
+  [PDF](https://www.nature.com/articles/s41467-026-77203-x.pdf)
 
 ---
 
