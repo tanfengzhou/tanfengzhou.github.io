@@ -30,6 +30,10 @@ Together, these studies connect detailed observations of small earthquakes to th
   [PDF](https://www.nature.com/articles/s41467-026-76407-5.pdf)
 - **Tan, F.**, Fan, W., Shearer, P. M., McGuire, J. J., Behn, M. D., Warren, J. M., Liu, Y., Collins, J. A., & Boettcher, M. S. *Structure and fluid conditions modulate along-strike segmentation of the easternmost Gofar oceanic transform fault.* Under review at **Journal of Geophysical Research: Solid Earth**.
 
+**Selected presentations:**
+- **<u>Tan, F.</u>**, Fan, W., Shearer, P., McGuire, J., Behn, M., Warren, J., Liu, Y., Collins, J., & Boettcher, M. (2026). *Fault-zone structure and fluid conditions associated with along-strike segmentation at the Gofar transform fault, East Pacific Rise.* American Geophysical Union (**AGU**) Fall Meeting, **oral presentation** (T51A-05).
+  [Abstract](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2077998)
+
 ---
 
 <h3 id="ai-and-seismological-methods" style="padding-top:110px; margin-top:-110px;">
@@ -54,6 +58,11 @@ I develop modern seismological and AI-based methods to study seismic signals. On
   [PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JB028735) ·
   [Code](https://github.com/tanfengzhou/SUGAR_kaikoura)
 - **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2019). *Seismicity-Scanning based on Navigated Automatic Phase-picking.* **Journal of Geophysical Research: Solid Earth**, 124, 3802–3818.
+  [Article](https://doi.org/10.1029/2018JB017050) ·
+  [PDF](https://web.uvic.ca/~enissen/papers/Tan-etal-2019-JGR.pdf)
+
+**Selected presentations:**
+- **<u>Tan, F.</u>**, Kao, H., Yi, K. M., Goerzen, C., Hutchinson, J., Gao, D., Farahbod, A., & Nissen, E. (2022). *Source Untangler Guided by Artificial Intelligence Image Recognition (SUGAR).* **AGU** Fall Meeting, **oral presentation** (S52A-03).
 
 ---
 
@@ -79,6 +88,10 @@ The study of the 2025 Kamchatka earthquake reveals that its rupture initially pr
   [Article](https://www.nature.com/articles/s41467-026-77203-x) ·
   [PDF](https://www.nature.com/articles/s41467-026-77203-x.pdf)
 
+**Selected presentations:**
+- Luo, H., **<u>Tan, F.</u>**, Ma, Z., Chen, K., Zhang, J., Wang, X., Xu, S., Carvajal, M., Xu, H., Yun, S., & Chen, L. (2026). *Rough fracture zone fostered the occurrence of the 2025 Mw 8.8 Kamchatka earthquake.* **AGU** Fall Meeting, **oral presentation** (T11A-08).
+  [Abstract](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2073828)
+
 ---
 
 <h3 id="environmental-seismology" style="padding-top:110px; margin-top:-110px;">
@@ -97,4 +110,7 @@ I am interested in how seismic observations can be used to study environmental p
 
 **Selected publications:**  
 - **Tan, F.**, Fan, W., & Shearer, P. M. *Greenland glacial earthquakes from 2010 to 2021.* Under review at **Geophysical Research Letters**.
-- **Tan, F.**, Fan, W., & Shearer, P. *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* 2026 **SSA** Annual Meeting **oral** presentation.
+
+**Selected presentations:**
+- **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Seismological Society of America (**SSA**) Annual Meeting, **oral presentation**.
+- **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Greenland glacial earthquake activity from 2010 to 2021 revealed by AI-assisted detection.* **AGU** Fall Meeting, poster.
