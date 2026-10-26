@@ -21,7 +21,9 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 </figure>
 
 **Selected publications:**  
-- **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. *Variations in mechanical properties control segmentation of oceanic transform faults.* Under revision at **Nature Communications**.
+- **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2026). *Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults.* **Nature Communications**, 17, 9836.
+- **Tan, F.**, Fan, W., Shearer, P. M., McGuire, J. J., Behn, M. D., Warren, J. M., Liu, Y., Collins, J. A., & Boettcher, M. S. *Structure and fluid conditions modulate along-strike segmentation of the easternmost Gofar oceanic transform fault.* Under review at **Journal of Geophysical Research: Solid Earth**.
+- Fan, W., Shearer, P. M., Behn, M. D., McGuire, J. J., Warren, J. M., **Tan, F.**, Yang, Y., Liu, Y., Collins, J. A., & Boettcher, M. S. *Seismicity of the eastern Gofar intra-transform spreading center and its bounding transform segments.* Under review at **Journal of Geophysical Research: Solid Earth**.
 
 ---
 
@@ -65,8 +67,8 @@ I use seismology to study major earthquakes globally, and collaborate with other
 -->
 
 **Selected publications:**  
-- Luo H.#, **Tan F.#**, Ma Z., Chen K., Zhang J., Wang X., Xu S., Carvajal M., Xu H., Yun S. & Chen L., *Rough Fracture Zone as a Gateway to the 2025 Mw 8.8 Kamchatka Earthquake.* Under revision at **Science**. #Co-first authors (equal contribution).
-- Ulrich T., Zou X., Marchandon M., Schliwa N., **Tan F.**, Gabriel A., Fan W., Shearer P., Thant M., Tin TZH., Lindsey E. O., & Fialko Y. *On predictability of slip, rupture geometry, and rupture speed of the Mw7.8 2025 Mandalay (Myanmar) Earthquake.* Under revision at **Nature Communications**. 
+- Luo, H.<sup>†</sup>, **Tan, F.**<sup>†</sup>, Ma, Z., Chen, K., Zhang, J., Wang, X., Xu, S., Carvajal, M., Xu, H., Yun, S., & Chen, L. *Rough fracture zone as a gateway to the 2025 Mw 8.8 Kamchatka earthquake.* **Science**. In press. †Co-first authors (equal contribution).
+- Ulrich, T., Zou, X., Marchandon, M., Schliwa, N., **Tan, F.**, Gabriel, A., Fan, W., Shearer, P., Thant, M., Tin, T. Z. H., Lindsey, E. O., & Fialko, Y. (2026). *On predictability of slip, rupture geometry, and speed of the 2025 M7.8 Mandalay, Myanmar, earthquake.* **Nature Communications**, 17, 10173.
 
 ---
 
@@ -85,4 +87,5 @@ I am interested in how seismic observations can be used to study environmental p
 -->
 
 **Selected publications:**  
+- **Tan, F.**, Fan, W., & Shearer, P. M. *Greenland glacial earthquakes from 2010 to 2021.* Under review at **Geophysical Research Letters**.
 - **Tan, F.**, Fan, W., & Shearer, P. *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* 2026 **SSA** Annual Meeting **oral** presentation.

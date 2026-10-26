@@ -6,6 +6,9 @@ author_profile: true
 
 ## Invited talks
 
+### 2026
+- **Deep Learning-Based 3D Computer Vision for Seismic Source Detection and Location** — University of California, San Diego (UCSD), GAIA initiative seminar, USA. (May 2026)
+
 ### 2025
 - **Variations in mechanical properties control segmentation of oceanic transform faults** — California Institute of Technology (Caltech), Pasadena, USA. (Oct 2025)
 - **Variations in mechanical properties control segmentation of oceanic transform faults** — University of Southern California (USC), online. (Oct 2025)
@@ -24,3 +27,7 @@ author_profile: true
 
 ### 2022
 - **Seismicity-Scanning based on Navigated Automatic Phase-Picking (S-SNAP)** — Geological Survey of Canada (Environmental Geoscience Program), online. (Jan 2022)
+
+## Conference presentations
+
+See the [conference publications list](/publications/#conference-publications) for conference talks and posters.

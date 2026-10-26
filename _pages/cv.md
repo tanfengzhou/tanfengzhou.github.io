@@ -16,6 +16,7 @@ author_profile: true
 **Postdoctoral research scholar** — University of California, San Diego (UCSD) (Oct 2024–Present)  
 - Awarded the NSERC postdoctoral fellowship.  
 - Leading research in marine geophysics using modern AI methods.  
+- Leading research in earthquake physics.
 - Leading research on seismic observations of the cryosphere.  
 
 **Field technician** — University of California, San Diego (Feb 2025)  
@@ -28,7 +29,7 @@ author_profile: true
 
 **Research assistant** — Geological Survey of Canada, Natural Resources Canada (Dec 2018–Mar 2019)  
 - Developed, coded, and tested an automatic earthquake detection and location workflow (S-SNAP) for induced seismicity monitoring in British Columbia.  
-- Contributed to operational research at Natural Resources Canada and collaborated with federal scientists on seismic analysis.  
+- The code has subsequently been used to process over a decade of seismic data from British Columbia.
 
 **Field technician** — Geological Survey of Canada, Natural Resources Canada (Sep 2018–Oct 2018)  
 - Set up 6 permanent seismic stations for the “Public Safety Geoscience Program Canadian Research Network” in northeast British Columbia. 
