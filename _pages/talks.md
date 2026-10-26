@@ -7,7 +7,7 @@ author_profile: true
 ## Invited talks
 
 ### 2026
-- **Deep Learning-Based 3D Computer Vision for Seismic Source Detection and Location** — University of California, San Diego (UCSD), GAIA initiative seminar, USA. (May 2026)
+- **Deep Learning-Based 3D Computer Vision for Seismic Source Detection and Location** — University of California, San Diego (UCSD), [GAIA Initiative — Artificial Intelligence for Earth and Ocean Science](https://gaia.ucsd.edu/) seminar, USA. (May 2026)
 
 ### 2025
 - **Variations in mechanical properties control segmentation of oceanic transform faults** — California Institute of Technology (Caltech), Pasadena, USA. (Oct 2025)
