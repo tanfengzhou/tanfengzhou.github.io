@@ -93,7 +93,11 @@ The study of the 2025 Kamchatka earthquake reveals that its rupture initially pr
 </h3>
 
 **Overview:**  
-I am interested in how seismic observations can be used to study environmental processes, including cryosphere-related signals and other non-tectonic sources. This theme focuses on extracting weak environmental seismic signals from continuous data, combining detection, location and machine learning workflows to identify events and connect them to environmental drivers. The broader goal is to use seismology as a continuous tool for monitoring environmental phenomena. 
+I use seismic observations to study environmental processes, including cryosphere-related signals and other non-tectonic sources.
+
+My work on Greenland glacial earthquakes combines waveform stacking, deep learning, and centroid single-force inversion to characterize glacier calving activity. The resulting catalog identifies more than 2,000 events across 30 glacier outlets or outlet groups during 2010–2021. Greenland-wide event rates fluctuate over time, with pronounced seasonal and outlet-scale variability. Source force direction, magnitude and duration also show outlet-scale variability.
+
+In Antarctica, I am conducting ongoing research using seismological methods to detect and locate icequakes near the grounding zone of Eastwind Glacier. Preliminary results indicate more than 20,000 events over several days, with activity potentially modulated by tides.
 
 <!-- Add images under /images/projects/environmental-seismology/ -->
 <!-- Example:
@@ -106,3 +110,6 @@ I am interested in how seismic observations can be used to study environmental p
 - **Tan, F.**, Fan, W., & Shearer, P. M. *Greenland glacial earthquakes from 2010 to 2021.* Under review at **Geophysical Research Letters**.
 - **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Seismological Society of America (**SSA**) Annual Meeting, **oral presentation**.
 - **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Greenland glacial earthquake activity from 2010 to 2021 revealed by AI-assisted detection.* **AGU** Fall Meeting, poster.
+  [Abstract](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2077047)
+- <u>Wu, B.</u>, Freer, B., **Tan, F.**, Fan, W., Carroll, G., Mills, B., Roberts, C., & Gabriel, A. (2026). *Tidal modulation of seismic events in the grounding zone of Eastwind Glacier, Antarctica.* **AGU** Fall Meeting, poster.
+  [Abstract](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2078645)
