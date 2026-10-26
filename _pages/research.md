@@ -57,7 +57,8 @@ I develop modern seismological and AI-based methods to study seismic signals. On
   [Code](https://github.com/tanfengzhou/SUGAR_kaikoura)
 - **Tan, F.**, Kao, H., Nissen, E., & Eaton, D. (2019). *Seismicity-Scanning based on Navigated Automatic Phase-picking.* **Journal of Geophysical Research: Solid Earth**, 124, 3802–3818.
   [Article](https://doi.org/10.1029/2018JB017050) ·
-  [PDF](https://web.uvic.ca/~enissen/papers/Tan-etal-2019-JGR.pdf)
+  [PDF](https://web.uvic.ca/~enissen/papers/Tan-etal-2019-JGR.pdf) ·
+  [Code](https://github.com/tanfengzhou/S-SNAP1.0)
 
 ---
 
