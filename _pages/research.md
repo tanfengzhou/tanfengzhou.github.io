@@ -11,7 +11,11 @@ author_profile: true
 </h3>
 
 **Overview:**  
-I study faulting and earthquake processes, with a focus on oceanic transform faults. I use modern AI techniques to study seismicity and focal mechanisms on Gofar transform fault branches. The detailed seismic observations are informative of plate boundary faulting process, stress regime, and fault mechanics. Various types of focal mechanisms along oceanic transform faults suggest their structural complexity and non-conservative nature. Long-term earthquake rupture barriers are likely associated with fault segments with elevated pore fluid pressures along strike. 
+I investigate the physical controls that govern segmentation and earthquake behavior at oceanic transform faults, with a focus on the Gofar transform fault on the East Pacific Rise.
+
+My research on westernmost Gofar (G3) shows that earthquake faulting styles vary systematically between rupture zones and creeping barriers. These variations indicate that the barriers are mechanically weak, likely reflecting elevated pore-fluid pressure. My work on easternmost Gofar (G1) investigates how fault-zone structure and fluid conditions jointly modulate along-strike segmentation.
+
+Together, these studies connect detailed observations of small earthquakes to the physical conditions that allow some segments to host recurring large earthquakes while others accommodate creep and inhibit rupture propagation.
 
 <figure>
   <img src="/images/projects/marine-geophysics/gofarG3focal.png"
@@ -22,8 +26,9 @@ I study faulting and earthquake processes, with a focus on oceanic transform fau
 
 **Selected publications:**  
 - **Tan, F.**, Fan, W., Shearer, P. M., Behn, M. D., & McGuire, J. J. (2026). *Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults.* **Nature Communications**, 17, 9836.
+  [Article](https://www.nature.com/articles/s41467-026-76407-5) ·
+  [PDF](https://www.nature.com/articles/s41467-026-76407-5.pdf)
 - **Tan, F.**, Fan, W., Shearer, P. M., McGuire, J. J., Behn, M. D., Warren, J. M., Liu, Y., Collins, J. A., & Boettcher, M. S. *Structure and fluid conditions modulate along-strike segmentation of the easternmost Gofar oceanic transform fault.* Under review at **Journal of Geophysical Research: Solid Earth**.
-- Fan, W., Shearer, P. M., Behn, M. D., McGuire, J. J., Warren, J. M., **Tan, F.**, Yang, Y., Liu, Y., Collins, J. A., & Boettcher, M. S. *Seismicity of the eastern Gofar intra-transform spreading center and its bounding transform segments.* Under review at **Journal of Geophysical Research: Solid Earth**.
 
 ---
 
