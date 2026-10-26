@@ -108,8 +108,8 @@ In Antarctica, I am conducting ongoing research using seismological methods to d
 
 **Selected Publications and Presentations:**  
 - **Tan, F.**, Fan, W., & Shearer, P. M. *Greenland glacial earthquakes from 2010 to 2021.* Under review at **Geophysical Research Letters**.
-- **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Seismological Society of America (**SSA**) Annual Meeting, **oral presentation**.
 - **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Greenland glacial earthquake activity from 2010 to 2021 revealed by AI-assisted detection.* **AGU** Fall Meeting, poster.
   [Abstract](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2077047)
 - <u>Wu, B.</u>, Freer, B., **Tan, F.**, Fan, W., Carroll, G., Mills, B., Roberts, C., & Gabriel, A. (2026). *Tidal modulation of seismic events in the grounding zone of Eastwind Glacier, Antarctica.* **AGU** Fall Meeting, poster.
   [Abstract](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2078645)
+- **<u>Tan, F.</u>**, Fan, W., & Shearer, P. (2026). *Searching for glacier-related seismic events in Greenland with waveform similarity and machine learning.* Seismological Society of America (**SSA**) Annual Meeting, **oral presentation**.
